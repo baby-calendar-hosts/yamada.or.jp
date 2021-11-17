@@ -187,6 +187,8 @@
     "composer/installers": "^1.10",
     "cookpad-baby/simple-seo-pack": "dev-master",
     "koodimonni-language/core-ja": "*",
+    "koodimonni-language/core-pt_br": "*",
+    "koodimonni-language/core-vi": "*",
     "koodimonni-plugin-language/breadcrumb-navxt-ja": "*",
     "koodimonni-plugin-language/classic-editor-ja": "*",
     "koodimonni-plugin-language/custom-post-type-ui-ja": "*",
