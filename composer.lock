@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "25c33a33f4682111f9dac4f88f290234",
+    "content-hash": "d7736366ea9eeb177e5ddeb9e4a99fbd",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -412,7 +412,7 @@
         },
         {
             "name": "koodimonni-plugin-language/custom-post-type-ui-ja",
-            "version": "1.10.0",
+            "version": "1.10.1",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/custom-post-type-ui/{%version}/ja.zip",
